@@ -37,7 +37,7 @@ Password Security Analyzer is an interactive GUI application designed to evaluat
 1. Clone the repository or download the source code:
    ```bash
    git clone https://github.com/4LPH7/PAS_STR.git
-   cd password-security-analyzer
+   cd PAS_STR
    ```
 
 2. Install the required dependencies:
