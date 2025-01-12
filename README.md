@@ -64,7 +64,9 @@ Password Security Analyzer is an interactive GUI application designed to evaluat
 ---
 ## Screenshot
 
-![Screenshot 2025-01-12 190616](https://github.com/user-attachments/assets/5d6968fd-130d-4196-b3bb-cdbd78b9e5db)
+## Screenshot
+
+<img src="https://github.com/user-attachments/assets/5d6968fd-130d-4196-b3bb-cdbd78b9e5db" alt="Screenshot 2025-01-12 190616" width="600"/>
 
 ---
 
