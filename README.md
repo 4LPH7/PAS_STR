@@ -67,3 +67,19 @@ Password Security Analyzer is an interactive GUI application designed to evaluat
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+
+---
+
+## Author
+
+- GitHub: [@4LPH7](https://github.com/4LPH7)
+
+Feel free to contribute or suggest improvements!
+
+---
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://buymeacoffee.com/arulartadg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
