@@ -62,6 +62,11 @@ Password Security Analyzer is an interactive GUI application designed to evaluat
 4. Use the eye icon to toggle password visibility.
 
 ---
+## Screenshot
+
+![Screenshot 2025-01-12 190616](https://github.com/user-attachments/assets/5d6968fd-130d-4196-b3bb-cdbd78b9e5db)
+
+---
 
 ## License
 
